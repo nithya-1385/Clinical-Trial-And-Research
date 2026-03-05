@@ -93,5 +93,5 @@ The following files are included in this repository:
 ---
 
 ## Authors
-1. Nishita Singh (ohnonyx)
-2. Nithya Prashaanthi R. (nithya-1385)
+1. Nishita Singh : [ohnonyx](https://github.com/ohnonyx)
+2. Nithya Prashaanthi R. : [nithya-1385](https://github.com/nithya-1385)
